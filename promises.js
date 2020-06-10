@@ -8,53 +8,6 @@
 //     console.log((add(3,2)));
 //     console.log((add(5,5)));
 
-// function mainFunc() {
-//     theCall();
-    
-//     console.log('print hello world');
-
-// }
-
-// theCall = () => {
-//     console.log('hello karthik');
-// }
-
-// mainFunc();
-
-
-// const st= (a,b) => {
-//     setTimeout((a,b) => {
-// let result = a+b;
-// return result;        
-//     }, 3000);
-// }
-
-// let result;
-
-// const st=(a,b) => {
-//     result = a+b;
-//     return result;
-// };
-
-// setTimeout(st,3000);
-
-// console.log((st(3,2)));
-
-
-// const myFun =(a,b) => {
-//     let res = Number(a) + Number(b);
-//     return res;
-// };
-
-// let result = setTimeout(myFun(5,8), 2000)
-
-// console.log(
-
-//     let result =0;
-//     const my
-
-// ------
-
 // let result = 0;
 
 // const myFn = (a, b) => {
@@ -89,6 +42,8 @@
 
 //     let promise = new Promise((resolve, reject) => {
 //       setTimeout(() => { 
+            //a=2
+            //b=3
 //         result=a+b;
 //         resolve(result)
 //         }, 3000);
